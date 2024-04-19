@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8163f69decf7695b0968e5d2645c0564",
+    "revision": "b47fe1a3ed0c7a25097b3d35fe7cef9a",
     "url": "/ach_meno_bl/index.html"
   },
   {
-    "revision": "aa22e7e7016a0612c3c1",
+    "revision": "d4a4680a1545965a9c56",
     "url": "/ach_meno_bl/static/css/main.f4ac948c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ach_meno_bl/static/js/2.fb972c2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa22e7e7016a0612c3c1",
-    "url": "/ach_meno_bl/static/js/main.489a7296.chunk.js"
+    "revision": "d4a4680a1545965a9c56",
+    "url": "/ach_meno_bl/static/js/main.4ec3cd87.chunk.js"
   },
   {
     "revision": "a3c169b64478e1e7ec42",
