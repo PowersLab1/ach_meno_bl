@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "auditory",
+  "taskName": "ach_meno_bl",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
